@@ -6,3 +6,7 @@ WebProg Git and GitHub Exercise (Push and Pull)
 - index.css
 - index.js
 - WebProg folder
+
+Shantrelle Louise Reinoso 
+
+BSCS3A
